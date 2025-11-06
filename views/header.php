@@ -19,6 +19,9 @@
             <a href="index.php?action=create" class="nav-link">Tambah Karyawan</a>
             <a href="index.php?action=department_stats" class="nav-link">Statistik Departemen</a>
             <a href="index.php?action=refresh" class="nav-link">Refresh Dashboard</a>
+            <a href="index.php?action=stats" class="nav-link">Statistik Gaji</a>
+            <a href="index.php?action=tenure" class="nav-link">Masa Kerja</a>
+            <a href="index.php?action=overview" class="nav-link"> Ringkasan Karyawan</a>
         </nav>
 
         <main class="main-content">
